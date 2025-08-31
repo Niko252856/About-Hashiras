@@ -1,0 +1,59 @@
+body {
+  background-color: #1e1e1e;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+li {
+  margin: 10px 0;
+  text-align: center;
+}
+a {
+  display: block;
+  color: #e0e0e0;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 10px;
+  transition: 0.3s ease, color 0.3s ease;
+}
+a:hover {
+  background-color: #36454f;
+  color: #c8aa6a;
+}
+#Gyomei {
+  background-color: #556b2f;
+}
+#Giyu {
+  background-color: #00008b;
+}
+#Rengoku {
+  background-color: #ffa500;
+}
+#Mitsuri {
+  background-color: #ffc0cb;
+}
+#Muichiro {
+  background-color: #008080;
+}
+#Obanai {
+  background-color: #4b0082;
+}
+#Sanemi {
+  background-color: #77dd77;
+}
+#Shinobu {
+  background-color: #e6e6fa;
+}
+#Tengen {
+  background-color: #007ba7;
+}
+img {
+  width: 50%;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
